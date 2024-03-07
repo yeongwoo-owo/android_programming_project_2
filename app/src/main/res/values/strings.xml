@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PA2</string>
+    <string name="domain">http://swui.skku.edu</string>
+    <string name="port">1399</string>
+</resources>
